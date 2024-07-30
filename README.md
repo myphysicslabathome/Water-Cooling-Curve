@@ -24,7 +24,7 @@ Download the "Cooling Curve.py" file and run directly.
 - Run the provided "Cooling Curve.py" file.
 - The current temperature will be displayed on the screen at 1 sec intervals.
 - Logged temperature data (time(s), temperature(C)) will be saved to "Temperature.dat".
-- To modify the time interval (in seconds), update the value in Temperature.py at line 30.
+- To modify the time interval (in seconds), update the value in Temperature.py at line 27.
   ``` python code
   time.sleep(1)
   ```
